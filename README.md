@@ -1,16 +1,18 @@
 ### Hi there 👋
 
 
-**vikrantmane7781/vikrantmane7781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A software developer. Passionate about Data science & Machine learning</h3>
+	
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vikrantmane7781&color=blueviolet&style=flat">
+</p>
+<p align="left"> <img src="https://i.gifer.com/Fg1M.gif" alt="bootstrap" width="300" height="300"/> </p>
+<img align="right" alt="Coding" width="300" src=""/>
 
-Here are some ideas to get you started:
+- 🎈 I’m currently learning  ⭐⭐⭐ Deep learning,Machine learning,Next.js,typescript etc. ⭐⭐⭐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📓🥡 All of my code are available at [github](https://github.com/vikrantmane7781?tab=repositories)
+
+- 📭 reach me ⭐⭐⭐ nishantmane39@gmail.com ⭐⭐⭐
+
 
