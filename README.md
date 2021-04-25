@@ -1,6 +1,6 @@
 <h1 align="">Hi there👋</h1>
 <p align="">
-   I'm Nishant,a full stack developer and passionate about Data science & Machine learning
+   I'm Nishant, a full stack developer and passionate about Data science & Machine learning
 </p>
 <p align=""> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
