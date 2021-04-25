@@ -5,9 +5,6 @@
 <p align=""> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
 
-<a href="https://linkedin.com/in/nishant-mane-588648204"><img src="https://img.shields.io/badge/-nishant-mane?style=flat&logo=Linkedin&logoColor=white"/></a>
-[![Gmail Badge](https://img.shields.io/badge/-nishantmane39@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:nishantmane39@gmail.com)](mailto:nishantmane39@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-viki_mane772-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/viki_mane772/)](https://instagram.com/viki_mane772)
 
 
 - 🎈 I’m currently learning  ⭐⭐⭐ Deep learning,Machine learning,Next.js,typescript etc. ⭐⭐⭐
@@ -72,8 +69,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p>
-
-<a href="https://linkedin.com/in/nishant-mane-588648204"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:nishantmane39@gmail.com"><img src="https://img.shields.io/badge/-nishantmane39@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
+<a href="https://linkedin.com/in/nishant-mane-588648204"><img src="https://img.shields.io/badge/-nishant-mane?style=flat&logo=Linkedin&logoColor=white"/></a>
+[![Gmail Badge](https://img.shields.io/badge/-nishantmane39@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:nishantmane39@gmail.com)](mailto:nishantmane39@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-viki_mane772-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/viki_mane772/)](https://instagram.com/viki_mane772)
